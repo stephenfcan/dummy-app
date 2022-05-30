@@ -4,7 +4,8 @@ import { useState } from 'react';
 
 export default function Home() {
   const [accessCode, setAccessCode] = useState("");
-  const submit = () => {
+  const submit = (e) => {
+    e.preventDefault();
     return (
       alert("Invalid access code")
     );
