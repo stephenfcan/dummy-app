@@ -9,6 +9,8 @@ npm run dev
 # or
 yarn dev
 ```
+<img width="1280" alt="Screen Shot 2022-06-02 at 11 46 07 PM" src="https://user-images.githubusercontent.com/84104582/171801936-fa9e5bb9-1aaa-4576-9014-213ccd22b15b.png">
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
