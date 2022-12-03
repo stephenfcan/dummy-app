@@ -13,6 +13,7 @@ yarn dev
 
 ![TackEdu Logo](https://user-images.githubusercontent.com/84104582/171989684-626c1272-3683-4131-8ae4-559d0a56c773.png)
 
+![Title Slide](https://user-images.githubusercontent.com/84104582/205454940-5d30e26c-be36-4963-8ea4-8e2e1af18043.png)
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
