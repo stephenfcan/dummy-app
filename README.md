@@ -20,6 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 ![Signature](https://user-images.githubusercontent.com/84104582/205430009-475c2ff1-2a24-4719-a71e-569e147949a9.png)
+![Phone Mockup](https://user-images.githubusercontent.com/84104582/205474294-34c8abed-409c-4d61-861d-3879cd1b80bb.png)
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
