@@ -11,6 +11,11 @@ yarn dev
 ```
 <img width="1280" alt="Screen Shot 2022-06-02 at 11 46 07 PM" src="https://user-images.githubusercontent.com/84104582/171801936-fa9e5bb9-1aaa-4576-9014-213ccd22b15b.png">
 
+![Slack vs Teams Thumbnail](https://github.com/stephenfcan/dummy-app/assets/84104582/8575bfcf-16a7-40c9-b5fb-a8472ee85c98)
+
+![ServiceNow Pt  1](https://github.com/stephenfcan/dummy-app/assets/84104582/9143b30a-4b9a-4960-b28e-b8c97a3321a5)
+
+
 ![TackEdu Logo](https://user-images.githubusercontent.com/84104582/171989684-626c1272-3683-4131-8ae4-559d0a56c773.png)
 
 ![Title Slide](https://user-images.githubusercontent.com/84104582/205454940-5d30e26c-be36-4963-8ea4-8e2e1af18043.png)
