@@ -10,6 +10,7 @@ npm run dev
 yarn dev
 ```
 <img width="1280" alt="Screen Shot 2022-06-02 at 11 46 07 PM" src="https://user-images.githubusercontent.com/84104582/171801936-fa9e5bb9-1aaa-4576-9014-213ccd22b15b.png">
+![230928_Group_Day_03_04016](https://github.com/stephenfcan/dummy-app/assets/84104582/baa58376-068a-490e-a98a-556c397f3e1b)
 
 ![Slack vs Teams Thumbnail](https://github.com/stephenfcan/dummy-app/assets/84104582/8575bfcf-16a7-40c9-b5fb-a8472ee85c98)
 
