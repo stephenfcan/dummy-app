@@ -11,6 +11,8 @@ yarn dev
 ```
 <img width="1280" alt="Screen Shot 2022-06-02 at 11 46 07 PM" src="https://user-images.githubusercontent.com/84104582/171801936-fa9e5bb9-1aaa-4576-9014-213ccd22b15b.png">
 ![230928_Group_Day_03_04016](https://github.com/stephenfcan/dummy-app/assets/84104582/baa58376-068a-490e-a98a-556c397f3e1b)
+![230928_Group_Day_03_04244](https://github.com/stephenfcan/dummy-app/assets/84104582/b21c1811-a4bd-435b-b14e-4080adb719db)
+![230928_Group_Day_03_04227](https://github.com/stephenfcan/dummy-app/assets/84104582/6edfc6fc-6c4a-4edb-964f-ff41d83fc7d5)
 
 ![Slack vs Teams Thumbnail](https://github.com/stephenfcan/dummy-app/assets/84104582/8575bfcf-16a7-40c9-b5fb-a8472ee85c98)
 
