@@ -13,6 +13,7 @@ yarn dev
 ![230928_Group_Day_03_04016](https://github.com/stephenfcan/dummy-app/assets/84104582/baa58376-068a-490e-a98a-556c397f3e1b)
 ![230928_Group_Day_03_04244](https://github.com/stephenfcan/dummy-app/assets/84104582/b21c1811-a4bd-435b-b14e-4080adb719db)
 ![230928_Group_Day_03_04227](https://github.com/stephenfcan/dummy-app/assets/84104582/6edfc6fc-6c4a-4edb-964f-ff41d83fc7d5)
+![230928_Group_Day_03_04281](https://github.com/stephenfcan/dummy-app/assets/84104582/d1af5933-fe2f-4eca-8571-05a59b28e1a0)
 
 ![Slack vs Teams Thumbnail](https://github.com/stephenfcan/dummy-app/assets/84104582/8575bfcf-16a7-40c9-b5fb-a8472ee85c98)
 
