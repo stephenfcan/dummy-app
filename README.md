@@ -7,7 +7,15 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
+yarn dev![DSC01676 2](https://github.com/user-attachments/assets/a0fca13c-d825-4455-bb3e-6918b4e2804b)
+![DSC01675 2](https://github.com/user-attachments/assets/e0431654-b390-483d-a06c-1adec2940674)
+![DSC01674 2](https://github.com/user-attachments/assets/41e4ea5b-d832-4fa3-a224-5686c40b4332)
+![DSC01671 2](https://github.com/user-attachments/assets/5b66fd89-d43a-473e-bef3-2d8260726303)
+![DSC01669 2](https://github.com/user-attachments/assets/7448b158-c20e-47ef-aed7-9755bba0fa5b)
+![DSC01668 2](https://github.com/user-attachments/assets/028f014c-a701-4752-ad1e-b051393c648e)
+![DSC01667 2](https://github.com/user-attachments/assets/a843e2fe-a366-4c2b-860e-31817a673c7b)
+![DSC01666 2](https://github.com/user-attachments/assets/f93107a0-47f1-44a9-9b30-b1dbd8bda33b)
+
 ```
 <img width="1280" alt="Screen Shot 2022-06-02 at 11 46 07 PM" src="https://user-images.githubusercontent.com/84104582/171801936-fa9e5bb9-1aaa-4576-9014-213ccd22b15b.png">
 ![230928_Group_Day_03_04016](https://github.com/stephenfcan/dummy-app/assets/84104582/baa58376-068a-490e-a98a-556c397f3e1b)
