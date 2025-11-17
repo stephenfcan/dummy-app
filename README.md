@@ -7,14 +7,7 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev![DSC01676 2](https://github.com/user-attachments/assets/a0fca13c-d825-4455-bb3e-6918b4e2804b)
-![DSC01675 2](https://github.com/user-attachments/assets/e0431654-b390-483d-a06c-1adec2940674)
-![DSC01674 2](https://github.com/user-attachments/assets/41e4ea5b-d832-4fa3-a224-5686c40b4332)
-![DSC01671 2](https://github.com/user-attachments/assets/5b66fd89-d43a-473e-bef3-2d8260726303)
-![DSC01669 2](https://github.com/user-attachments/assets/7448b158-c20e-47ef-aed7-9755bba0fa5b)
-![DSC01668 2](https://github.com/user-attachments/assets/028f014c-a701-4752-ad1e-b051393c648e)
-![DSC01667 2](https://github.com/user-attachments/assets/a843e2fe-a366-4c2b-860e-31817a673c7b)
-![DSC01666 2](https://github.com/user-attachments/assets/f93107a0-47f1-44a9-9b30-b1dbd8bda33b)
+yarn dev!
 
 ```
 <img width="1280" alt="Screen Shot 2022-06-02 at 11 46 07 PM" src="https://user-images.githubusercontent.com/84104582/171801936-fa9e5bb9-1aaa-4576-9014-213ccd22b15b.png">
@@ -22,6 +15,16 @@ yarn dev![DSC01676 2](https://github.com/user-attachments/assets/a0fca13c-d825-4
 ![230928_Group_Day_03_04244](https://github.com/stephenfcan/dummy-app/assets/84104582/b21c1811-a4bd-435b-b14e-4080adb719db)
 ![230928_Group_Day_03_04227](https://github.com/stephenfcan/dummy-app/assets/84104582/6edfc6fc-6c4a-4edb-964f-ff41d83fc7d5)
 ![230928_Group_Day_03_04281](https://github.com/stephenfcan/dummy-app/assets/84104582/d1af5933-fe2f-4eca-8571-05a59b28e1a0)
+
+![DSC01676 2](https://github.com/user-attachments/assets/0dc0a77f-e1f8-4e50-933a-38d9c8159d6f)
+![DSC01675 2](https://github.com/user-attachments/assets/f8f7a239-e80d-46c0-9157-36b24490e6ec)
+![DSC01674 2](https://github.com/user-attachments/assets/78b0e7ff-0d10-458d-963b-79a82ddcbbd2)
+![DSC01671 2](https://github.com/user-attachments/assets/6c0b8065-75f0-4f5b-bffd-cfdff7872f39)
+![DSC01669 2](https://github.com/user-attachments/assets/28b5b4b5-c33b-48f9-81b0-0309790c6fb6)
+![DSC01668 2](https://github.com/user-attachments/assets/877a79e2-7bcb-411a-b98c-95c2c846093c)
+![DSC01667 2](https://github.com/user-attachments/assets/86df100b-3319-46c1-9407-b76ee8c27d41)
+![DSC01666 2](https://github.com/user-attachments/assets/a1b70973-c9fb-4dcc-b1f7-f31ff2968a33)
+
 
 ![Slack vs Teams Thumbnail](https://github.com/stephenfcan/dummy-app/assets/84104582/8575bfcf-16a7-40c9-b5fb-a8472ee85c98)
 
