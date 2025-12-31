@@ -16,6 +16,8 @@ yarn dev!
 ![230928_Group_Day_03_04227](https://github.com/stephenfcan/dummy-app/assets/84104582/6edfc6fc-6c4a-4edb-964f-ff41d83fc7d5)
 ![230928_Group_Day_03_04281](https://github.com/stephenfcan/dummy-app/assets/84104582/d1af5933-fe2f-4eca-8571-05a59b28e1a0)
 
+<img width="1000" height="477" alt="nujii dog" src="https://github.com/user-attachments/assets/496b38ae-fca6-45ff-a5ed-a6222de21987" />
+
 ![DSC01676 2](https://github.com/user-attachments/assets/0dc0a77f-e1f8-4e50-933a-38d9c8159d6f)
 ![DSC01675 2](https://github.com/user-attachments/assets/f8f7a239-e80d-46c0-9157-36b24490e6ec)
 ![DSC01674 2](https://github.com/user-attachments/assets/78b0e7ff-0d10-458d-963b-79a82ddcbbd2)
