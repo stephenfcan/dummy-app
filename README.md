@@ -35,7 +35,8 @@ yarn dev!
 
 ![TackEdu Logo](https://user-images.githubusercontent.com/84104582/171989684-626c1272-3683-4131-8ae4-559d0a56c773.png)
 
-![Title Slide](https://user-images.githubusercontent.com/84104582/205454940-5d30e26c-be36-4963-8ea4-8e2e1af18043.png)
+![Title Slide](https://user-images.githubusercontent.co<img width="3089" height="2048" alt="000136770034" src="https://github.com/user-attachments/assets/cfbe3f50-a660-4c5b-9eec-9fb2f6b2933b" />
+m/84104582/205454940-5d30e26c-be36-4963-8ea4-8e2e1af18043.png)
 ![C168EAEB-E5F4-46CA-A67A-440211241F35](https://user-images.githubusercontent.com/84104582/206887035-f5bff4bc-4335-414e-a9cc-f5d488a4c6fc.JPEG)
 
 ![Title](https://user-images.githubusercontent.com/84104582/205474502-7a703c58-f128-49f0-90bd-6557920377f0.png)
